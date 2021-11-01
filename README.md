@@ -9,12 +9,14 @@ I am hoping to work on my data visualization skills, to complement my keen inter
 # Portfolio
 Following are the projects undertaken in the course.
 
-## Assignment 1 
+## Assignment: GDP-to-Debt Ratio visualizations
 
-## Assignment 2
+Here is a link to the assignment (https://github.com/Safiullah93/portfolio/blob/main/Assign2.md)
 
 ## Assignment 3
 
 ## Assignment 4
+
+## Assignment 5
 
 ## Final Project
