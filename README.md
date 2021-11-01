@@ -11,7 +11,7 @@ Following are the projects undertaken in the course.
 
 ## Assignment: GDP-to-Debt Ratio visualizations
 
-Here is a link to the assignment (https://github.com/Safiullah93/portfolio/blob/main/Assign2.md)
+Here is a link to the assignment (/Assign2.md)
 
 ## Assignment 3
 
