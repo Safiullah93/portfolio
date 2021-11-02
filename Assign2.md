@@ -7,7 +7,7 @@
 This visualization shows the trends for GDP-to-Debt ratio for a number of countries, from 1995 to 2019. 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7692123"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-## World Map representation
+## European Map representation
 This visualization shows the GDP-to-Debt ratio over time, for European countries from 1995 to 2019.
 <div class="flourish-embed flourish-map" data-src="visualisation/7700582"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
