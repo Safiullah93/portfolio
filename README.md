@@ -11,7 +11,7 @@ Following are the projects undertaken in the course.
 
 ## Assignment: GDP-to-Debt Ratio visualizations
 
-Here is a [link](\Assig2) to the assignment!
+Here is a [link](\Assign2) to the assignment!
 
 ## Assignment 3
 
