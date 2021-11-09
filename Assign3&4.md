@@ -1,6 +1,7 @@
 # Critique by Design: Pollutants contributing to Air Quality deterioration in India
 
 ## Original Data Visualization
+<img width="845" alt="Original visualization" src="https://user-images.githubusercontent.com/80662552/140880501-fb9e51ac-9e6a-41fe-b760-9950a5ff2a08.png">
 
 ## Process
 ### Step 1: Motivation for selecting the visualization
