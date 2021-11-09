@@ -20,6 +20,8 @@ Using the critique, I was able to wireframe and plan out the redesign the visual
 
 I used the sketch created in the wireframing phase to get feedback from two of my peers. I used the standard script shared along with the assignment, and handed the hand drawn sketch to my peers. These peers are not enrolled in Telling Stories with Data (the relevant course at Carnegie Mellon University), therefore had no idea what to expect or look for in the sketch. I was hoping for unadulterated opinions on what they thought the visualization was about, what the author hoped to achieved through it and who the intended audience was. Following are the responses:
 
+![image](https://user-images.githubusercontent.com/80662552/140881784-cdfa6cc2-94de-4ccd-8a0d-a772cf54c4e4.png)
+
 #### Q1. Can you tell me what you think this is?
 Answer 1: "Data shown in graphs describing air quality pollutants"
 
