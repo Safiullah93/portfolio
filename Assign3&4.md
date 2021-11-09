@@ -44,3 +44,6 @@ Answer 1: "The header can be improved to summarize the information in a better w
 
 Answer 2: "Identify clearly somewhere that pm2.5, pm10, etc are pollutants affecting air quality"
 
+## Redesigned Data Visualization
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/7771551"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
