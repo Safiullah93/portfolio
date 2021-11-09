@@ -13,7 +13,8 @@ Following are the projects undertaken in the course.
 
 Here is a [link](/Assign2.md) to the GDP-to-Ratio visualization!
 
-## Assignment 3
+## Assignment: Critique by Design
+
 
 ## Assignment 4
 
