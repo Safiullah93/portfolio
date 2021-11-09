@@ -15,6 +15,7 @@ Here is a [link](/Assign2.md) to the GDP-to-Ratio visualization!
 
 ## Assignment: Critique by Design
 
+Here is a [link](/Assign3&4.md) to the Critique by Design of a visualization on pollutants contirbuting to air quality deterioration in India.
 
 ## Assignment 4
 
