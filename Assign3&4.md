@@ -21,21 +21,26 @@ I used the sketch created in the wireframing phase to get feedback from two of m
 
 #### Q1. Can you tell me what you think this is?
 Answer 1: "Data shown in graphs describing air quality pollutants"
+
 Answer 2: "Bar graphs for air pollutants"
 
 #### Q2. Can you describe to me what this is telling you?
 Answer 1: "Graphs showing the emissions of four pollutants and their sources"
+
 Answer 2: "The sources of air pollutants and how much each of them contributes to the emissions of the pollutants"
 
 #### Q3. Is there anything you find surprising or confusing?
 Answer 1: "Residential source being the highest contributor of two of the pollutants is surprising. And so are transport emissions being low for three of the pollutants as well"
+
 Answer 2: "Surprised to find agricutural burning to have such low emission compared to other sources for PM 2.5. Stubble burning contributing to poor air quality is a huge political discussion in India"
 
 #### Q4. Who do you think is the intended audience for this?
 Answer 1: "Can be the persons responsible for environment control or taking action against air pollution" 
+
 Answer 2: "Policymakers and general public"
 
 #### Q5. Is there anything you would change or do differently?
 Answer 1: "The header can be improved to summarize the information in a better way"
+
 Answer 2: "Identify clearly somewhere that pm2.5, pm10, etc are pollutants affecting air quality"
 
