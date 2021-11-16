@@ -11,6 +11,26 @@ This got me thinking about the ridiculous disparity our socio-economic systems h
 
 ## Data Sources
 
+### 1) United Nations - Department of Economics & Social Affairs
+The Department of Economics & Social Affairs maintains the database on the Sustainable Development Goals indicators. The relevant SDG indicator is the 2.1.2 Severity of Food Insecuirty. This data set covers country wise and global Food Insecurity trends from 2014 to 2020. 
+
+<https://unstats.un.org/sdgs/unsdg>
+
+### 2) Food & Agriculture Microdata Catalogue (FAM) - Food & Agriculture Organization of United Nations (FAO)
+The Food and Agriculture Organization of United States mainatins data on the Food Insecurity at the micro-level, in the Food & Agriculture Microdata Catalogue (FAO). 
+
+<https://microdata.fao.org/index.php/catalog/Food-Security>
+
+### 3) The World Ultra Wealth Report 2021 - Wealth-X
+Wealth-X is an organization that specializes in leveraging the data on wealthiest in the world to assist them and their partners in the business processes. The database access is restricted to clients only. There is nevertheless a World Ultra Wealth Report 2021 that shares the key findings and discusses the growth of fortunes of the wealthiest in the world.
+
+<https://go.wealthx.com/world-ultra-wealth-report-2021>
+
+### 4) Real-time Billionaires - Forbes
+Forbes is a leading global media house that is renowned for compiling the list of the richest and their worth, in real-time. The trends in terms of growth of fortunes of the richest can also be viewed on Forbes. 
+
+<https://www.forbes.com/real-time-billionaires/#50762b863d78>
+
 ## Wireframing
 
 ## Methodology
