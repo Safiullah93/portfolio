@@ -14,19 +14,19 @@ This got me thinking about the disparity our socio-economic systems have given b
 ## Outline
 
 ### A. Trends of Food Insecurity Before and During COVID
-![A](https://user-images.githubusercontent.com/80662552/141883777-c284e869-04ef-4a62-906f-4c4b9cd4d94c.jpeg)
+![A](https://user-images.githubusercontent.com/80662552/141884278-32a8a9a8-9b8d-456d-a7e5-891fedf3415c.jpeg)
 
 ### B. Trends of Growth in Wealth of the Ultra-rich Before and During COVID
+![B](https://user-images.githubusercontent.com/80662552/141884323-02060071-5bc0-4403-a3d6-a7b02bd15526.jpeg)
 
-### C. Concentration of the ultra-rich and the most food insecure on World Map
+### C. Percentage Wealth of Elon Musk (the richest) required to feed the food insecure
+![C](https://user-images.githubusercontent.com/80662552/141884419-21f4b869-d923-48d1-9767-c5633ddd83d9.jpeg)
 
-### D. Estimated expense for feeding the food insecure across the World
+### D. Percentage Wealth of the 1% required to feed the food insecure
+![D](https://user-images.githubusercontent.com/80662552/141884446-350fba80-8611-4405-99a2-f0e1c100697e.jpeg)
 
-### E. Percentage Wealth of the 1% required to feed the food insecure
 
-### F. Percentage Wealth of Elon Musk (the richest) required to feed the food insecure
-
-## Data Sources
+## Data
 
 ### 1) United Nations - Department of Economics & Social Affairs
 The Department of Economics & Social Affairs maintains the database on the Sustainable Development Goals indicators. The relevant SDG indicator is the 2.1.2 Severity of Food Insecurity. This data set covers country wise and global Food Insecurity trends from 2014 to 2020.
@@ -57,4 +57,4 @@ Borgen Project is a non-profit think-tank engaged with improving the understandi
 The data will be used for understanding the cost of resolving world hunger (Per year in this case).
 
 
-## Methodology
+## Method and Medium
