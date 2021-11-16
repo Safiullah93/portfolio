@@ -13,18 +13,28 @@ This got me thinking about the disparity our socio-economic systems have given b
 
 ## Outline
 
-### A. Trends of Food Insecurity Before and During COVID
+### A. Food Insecurity has worsened during COVID, contrary to the improvement noted pre-COVID
+This graph splits the time into pre-covid and during covid to show that the positive trend in terms of improvement (reduction) in food insecurity, noted prior to the on-set of COVID pandemic, has reversed during COVID. Suggesting there is an urgent need to address the worsening issue.
+
 ![A](https://user-images.githubusercontent.com/80662552/141884278-32a8a9a8-9b8d-456d-a7e5-891fedf3415c.jpeg)
 
-### B. Trends of Growth in Wealth of the Ultra-rich Before and During COVID
+### B. Wealth of the Ultra-rich has grown at an even faster rate During COVID, compared to pre-COVID
+This graph also splits the time into pre-covid and during covid, to show how the wealth of the Ultra-rich/richest in the world has grown at an even faster rate during COVID pandemic. 
+
 ![B](https://user-images.githubusercontent.com/80662552/141884323-02060071-5bc0-4403-a3d6-a7b02bd15526.jpeg)
 
-### C. Percentage Wealth of Elon Musk (the richest) required to feed the food insecure
+### C. Approximately 6% Wealth of Elon Musk (the richest) required to feed the food insecure, per year
+This visualization attempts at showing the proportion of the wealth required of the Richest person as of now 2021 (Elon Musk) to address world hunger, annually.
+
 ![C](https://user-images.githubusercontent.com/80662552/141884419-21f4b869-d923-48d1-9767-c5633ddd83d9.jpeg)
 
-### D. Percentage Wealth of the 1% required to feed the food insecure
+### D. Less than 1% Wealth of the Richest 1% required to feed the food insecure, per year
+This visualization attempts at showing the proportion of the wealth required of the Richest 1% of the world in 2021 (Elon Musk) to address world hunger, annually.
+
 ![D](https://user-images.githubusercontent.com/80662552/141884446-350fba80-8611-4405-99a2-f0e1c100697e.jpeg)
 
+### E. Call to action
+If the richest are intent on helping the world recover from COVID, and once and for all putting an end to the issue of food insecurity - that should be unimaginable in the age of supposed prosperity of the few that is incomprehensible - then they clearly have the resources at their disposal and can utilize the mechanims in place in the form of transnational bodies to end world hunger.
 
 ## Data
 
