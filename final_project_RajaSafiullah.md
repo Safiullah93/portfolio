@@ -46,27 +46,31 @@ The data will primarily be used for charting the trends of world food insecurity
 
 ### 2) Food & Agriculture Microdata Catalogue (FAM) - Food & Agriculture Organization of United Nations (FAO)
 
-Here is a [link](https://microdata.fao.org/index.php/catalog/Food-Security)
+Here is a [link](https://microdata.fao.org/index.php/catalog/Food-Security).
 The Food and Agriculture Organization of United States mainatins data on the Food Insecurity at the micro-level, in the Food & Agriculture Microdata Catalogue (FAO).
 The data will be used for complementing the UN DES dataset, for charting the trends of world food insecurity over time.
 
 ### 3) The World Ultra Wealth Report 2021 - Wealth-X
 
-Here is a [link](https://go.wealthx.com/world-ultra-wealth-report-2021)
+Here is a [link](https://go.wealthx.com/world-ultra-wealth-report-2021).
 Wealth-X is an organization that specializes in leveraging the data on wealthiest in the world to assist them and their partners in the business processes. The database access is restricted to clients only. There is nevertheless a World Ultra Wealth Report 2021 that shares the key findings and discusses the growth of fortunes of the wealthiest in the world.
 The data will be used for understanding the trends of growth in wealth of the Richest in the World.
 
 ### 4) Real-time Billionaires - Forbes
 
-Here is a [link](https://www.forbes.com/real-time-billionaires/#50762b863d78)
+Here is a [link](https://www.forbes.com/real-time-billionaires/#50762b863d78).
 Forbes is a leading global media house that is renowned for compiling the list of the richest and their worth, in real-time. The trends in terms of growth of fortunes of the richest can also be viewed on Forbes. 
 The data will be used for understanding the scale of the wealth held by the Richest in the World.
 
 ### 5) Cost to end world Hunger - Borgen Project
 
-Here is a [link](https://borgenproject.org/cost-to-end-world-hunger/)
+Here is a [link](https://borgenproject.org/cost-to-end-world-hunger/).
 Borgen Project is a non-profit think-tank engaged with improving the understanding of social issues and informing the relevant stakeholders engaged in policy-making.
 The data will be used for understanding the cost of resolving world hunger (Per year in this case).
 
 
 ## Method and Medium
+
+I will primarily be using Shorthand to build the story. Some of the visualizations will be charts that are depicting the increase food insecurity trend during covid, compared to pre-covid. Another graph to show the increasing trend in the growth of wealth of the richest during the COVID compared to pre-covid. This will be done to show build context for the visualizations to follow.
+I have currently used two large circles with much smaller circles to show the visualizations for proportion of wealth required to resolve world hunger, annually. I will try to draw them according to scale, and if I feel that the visualization isn't doing justice to the point that I am trying to make then I will entertain unconventional visualizations i.e. not charts. 
+I would like to use tableau for the visualizations since I am keen on learning more about the tool. But where there are limitations I am open to using Flourish - which I feel much more comfortable using now - or R - which I have some experience in already for visualizations.
