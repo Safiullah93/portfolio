@@ -1,4 +1,4 @@
-# Outline
+# The Hungry and the Ultra-rich - understanding the scale
 
 ## Executive Summary
 
