@@ -39,30 +39,32 @@ If the richest are intent on helping the world recover from COVID, and once and 
 ## Data
 
 ### 1) United Nations - Department of Economics & Social Affairs
+
+Here is a [link](https://unstats.un.org/sdgs/unsdg).
 The Department of Economics & Social Affairs maintains the database on the Sustainable Development Goals indicators. The relevant SDG indicator is the 2.1.2 Severity of Food Insecurity. This data set covers country wise and global Food Insecurity trends from 2014 to 2020.
 The data will primarily be used for charting the trends of world food insecurity over time.
 
-Here is a [link](https://unstats.un.org/sdgs/unsdg)
-
 ### 2) Food & Agriculture Microdata Catalogue (FAM) - Food & Agriculture Organization of United Nations (FAO)
+
+Here is a [link](https://microdata.fao.org/index.php/catalog/Food-Security)
 The Food and Agriculture Organization of United States mainatins data on the Food Insecurity at the micro-level, in the Food & Agriculture Microdata Catalogue (FAO).
 The data will be used for complementing the UN DES dataset, for charting the trends of world food insecurity over time.
 
-<https://microdata.fao.org/index.php/catalog/Food-Security>
-
 ### 3) The World Ultra Wealth Report 2021 - Wealth-X
+
+Here is a [link](https://go.wealthx.com/world-ultra-wealth-report-2021)
 Wealth-X is an organization that specializes in leveraging the data on wealthiest in the world to assist them and their partners in the business processes. The database access is restricted to clients only. There is nevertheless a World Ultra Wealth Report 2021 that shares the key findings and discusses the growth of fortunes of the wealthiest in the world.
 The data will be used for understanding the trends of growth in wealth of the Richest in the World.
 
-<https://go.wealthx.com/world-ultra-wealth-report-2021>
-
 ### 4) Real-time Billionaires - Forbes
+
+Here is a [link](https://www.forbes.com/real-time-billionaires/#50762b863d78)
 Forbes is a leading global media house that is renowned for compiling the list of the richest and their worth, in real-time. The trends in terms of growth of fortunes of the richest can also be viewed on Forbes. 
 The data will be used for understanding the scale of the wealth held by the Richest in the World.
 
-<https://www.forbes.com/real-time-billionaires/#50762b863d78>
-
 ### 5) Cost to end world Hunger - Borgen Project
+
+Here is a [link](https://borgenproject.org/cost-to-end-world-hunger/)
 Borgen Project is a non-profit think-tank engaged with improving the understanding of social issues and informing the relevant stakeholders engaged in policy-making.
 The data will be used for understanding the cost of resolving world hunger (Per year in this case).
 
