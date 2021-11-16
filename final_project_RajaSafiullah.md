@@ -14,6 +14,7 @@ This got me thinking about the disparity our socio-economic systems have given b
 ## Outline
 
 ### A. Trends of Food Insecurity Before and During COVID
+![A](https://user-images.githubusercontent.com/80662552/141883777-c284e869-04ef-4a62-906f-4c4b9cd4d94c.jpeg)
 
 ### B. Trends of Growth in Wealth of the Ultra-rich Before and During COVID
 
