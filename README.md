@@ -20,3 +20,6 @@ Here is a [link](/Assign3&4.md) to the Critique by Design of a visualization on 
 ## Final Project Part I
 
 Here is a [link](/final_project_RajaSafiullah.md) to Final Project Proposal!
+
+## Final Project Part II
+
