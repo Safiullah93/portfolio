@@ -19,7 +19,8 @@ Here is a [link](/Assign3&4.md) to the Critique by Design of a visualization on 
 
 ## Final Project Part I
 
-Here is a [link](/final_project_RajaSafiullah.md) to Final Project Proposal!
+Here is a [link](/final_project_RajaSafiullah.md) to the Final Project Part I - including the Final Project Proposal.
 
 ## Final Project Part II
 
+Here is a [link](/final_project_partII_RajaSafiullah.md) to the Final Project Part II - including the storyboard, user research and way forward sections.
