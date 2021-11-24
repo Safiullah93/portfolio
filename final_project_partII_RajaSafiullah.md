@@ -36,19 +36,19 @@ Answer 2.
 Answer 3.
 
 #### Q2. Do you think the story flows properly from phrasing the situation, to how it has progressed, and to its conclusion?
-Answer 1. The story flows fine, although the call of action seems abrupt to ask for donations first and then present the petition. 
+Answer 1. "The story flows fine, although the call of action seems abrupt to ask for donations first and then present the petition." 
 
 #### Q3. Do you think the story was effective in communicating the intended key message?
-Answer 1. If the intended message was that the very rich are well placed to resolve world food insecurity, then yes it was.
+Answer 1. "If the intended message was that the very rich are well placed to resolve world food insecurity, then yes it was."
 
 #### Q4. Did you feel the call of action was justified and appropriate?
-Answer 1. Again, the call of action with the petition seemed more appropriate than a donation for someone like me. But I do think putting the link to donation helps as well, for something like food insecurity. It helped that it was a reputable transnational body like UN Food Program you were asking donations for.
+Answer 1. "Again, the call of action with the petition seemed more appropriate than a donation for someone like me. But I do think putting the link to donation helps as well, for something like food insecurity. It helped that it was a reputable transnational body like UN Food Program you were asking donations for."
 
 #### Q5. Was there anything that resonated well with you in the story? If so what and if possible why?
-Answer 1. Certainly! The idea of zooming in to see the proportion of wealth of the richest person and the richest in the world really drove the idea home for me. 
+Answer 1. "Certainly! The idea of zooming in to see the proportion of wealth of the richest person and the richest in the world really drove the idea home for me." 
 
 #### Q6. What improvements would you suggest?
-Answer 1. Maybe a comparison of how the world economy has fared in the pandemic with richest in the world, to show how the latter's growth of fortunes is so important to understand.
+Answer 1. "Maybe a comparison of how the world economy has fared in the pandemic with richest in the world, to show how the latter's growth of fortunes is so important to understand."
 
 ### Improvements
 
