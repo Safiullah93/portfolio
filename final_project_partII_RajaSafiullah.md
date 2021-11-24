@@ -14,7 +14,7 @@ The target audience of the story are common people for me who have the ability m
 
 The approach was to look for individuals who might already be socially active and interested in social issues like World Food Insecurity. Secondly, a better measure for the effectiveness of my story would be to see how effective individuals who otherwise do no feel strongly about social issues or appear to be comparatively less aware of them respond to it. So I tried to include the responses for these two kinds of individuals, at the least.
 
-### Your interview script
+### Interview script
 
 Q1. At first glance, what do you think this story is about?
 
