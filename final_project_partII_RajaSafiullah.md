@@ -31,27 +31,42 @@ Q6. What improvements would you suggest?
 ### Findings from the Interviews - Responses
 
 #### Q1. At first glance, what do you think this story is about?
-Answer 1. This story appears to be about the disparity between the very rich and the very poor.
-Answer 2. 
+Answer 1. "This story appears to be about the disparity between the very rich and the very poor."
+
+Answer 2. "I think the story intends to convey a comparison between the poor, who cannot afford to eat well and the ultra-rich but the first visualization shows the world food insecurity in the context of the recent pandemic, which makes me think that this comparison is a pre and post pandemic times."
+
 Answer 3.
 
 #### Q2. Do you think the story flows properly from phrasing the situation, to how it has progressed, and to its conclusion?
 Answer 1. "The story flows fine, although the call of action seems abrupt to ask for donations first and then present the petition." 
 
+Answer 2. "I like the flow of the story in how food security is discussed first, then the growth in the wealth of ultra-rich, and then a connection is established between the two. The conclusion could have been better, maybe a section highlighting the negligence of the ultra-rich to global problems could add more weight to the argument."
+
 #### Q3. Do you think the story was effective in communicating the intended key message?
 Answer 1. "If the intended message was that the very rich are well placed to resolve world food insecurity, then yes it was."
+
+Answer 2. "I think the message is being communicated well. However, there is a need to add clearer titles to show what each section conveys."
 
 #### Q4. Did you feel the call of action was justified and appropriate?
 Answer 1. "Again, the call of action with the petition seemed more appropriate than a donation for someone like me. But I do think putting the link to donation helps as well, for something like food insecurity. It helped that it was a reputable transnational body like UN Food Program you were asking donations for."
 
+Answer 2. "The call to action does not seem to be connected with the rest of the story. Where are the ultra-rich involved here?"
+
 #### Q5. Was there anything that resonated well with you in the story? If so what and if possible why?
-Answer 1. "Certainly! The idea of zooming in to see the proportion of wealth of the richest person and the richest in the world really drove the idea home for me." 
+Answer 1. "Certainly! The idea of zooming in to see the proportion of wealth of the richest person and the richest in the world really drove the idea home for me."
+
+Answer 2. "The conversation about the ultra-rich is much talked about. It’s interesting to see how the wealth they own could help solve a major world crisis."
 
 #### Q6. What improvements would you suggest?
 Answer 1. "Maybe a comparison of how the world economy has fared in the pandemic with richest in the world, to show how the latter's growth of fortunes is so important to understand."
 
-### Improvements
+Answer 2. "I think adding a few interactive visualizations and possibly making segregate sections could improve the overall structure of the story."
+
+### Improvements/Changes to be made
 
 1) Comparison of the income paid in taxes, common people and the ultra-rich.
-2) Comparison of the growth of the private sector or generally the economy during the Pandemic, with the change in wealth of the wealthiest during the pandemic. 
+2) Comparison of the growth of the private sector or generally the economy during the Pandemic, with the change in wealth of the wealthiest during the pandemic.
+3) Make sure there is appropriate segregation of sections in the story.
+4) Make sure that the call of action connects better with the rest of the story.
+5) Include the petition of the in the call of action, before the donation button and section.
 
