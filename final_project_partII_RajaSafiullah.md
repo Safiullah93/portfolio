@@ -66,9 +66,10 @@ Answer 2. "I think adding a few interactive visualizations and possibly making s
 
 1) Comparison of the income paid in taxes, common people and the ultra-rich.
 2) Comparison of the growth of the private sector or generally the economy during the Pandemic, with the change in wealth of the wealthiest during the pandemic.
-3) Make sure there is appropriate segregation of sections in the story.
-4) Make sure that the call of action connects better with the rest of the story.
-5) Include the petition of the in the call of action, before the donation button and section.
-6) Look for appropriate images, that complement the story.
-7) Add more text or information to explain the story.
+3) Address the disconnect betweent the header and the first visualization - add sub-header that connects with the pandemic angle.
+4) Make sure there is appropriate segregation of sections in the story.
+5) Make sure that the call of action connects better with the rest of the story.
+6) Include the petition of the in the call of action, before the donation button and section.
+7) Look for appropriate images, that complement the story.
+8) Add more text or information to explain the story.
 
