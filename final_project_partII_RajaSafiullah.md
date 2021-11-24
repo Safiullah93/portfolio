@@ -69,4 +69,6 @@ Answer 2. "I think adding a few interactive visualizations and possibly making s
 3) Make sure there is appropriate segregation of sections in the story.
 4) Make sure that the call of action connects better with the rest of the story.
 5) Include the petition of the in the call of action, before the donation button and section.
+6) Look for appropriate images, that complement the story.
+7) Add more text or information to explain the story.
 
