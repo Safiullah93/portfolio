@@ -62,6 +62,10 @@ Answer 1. "Maybe a comparison of how the world economy has fared in the pandemic
 
 Answer 2. "I think adding a few interactive visualizations and possibly making segregate sections could improve the overall structure of the story."
 
+#### Key findings from the feedback
+
+There were some recurring ideas in the feedback I recieved that I have included in the following section. Some aspects of the story appeared to be lacking, that could add to the story. The flow of the story also appears to need to some work, that especially the transitions from one distinct section to another within the story. Additionally, there were some suggestions for the call of action section in particular - where there was a need for addressing the relevant audience and demanding an action relevant to them was suggested. These are some of the key ideas that I will be focusing on while working on the final story.
+
 ### Improvements/Changes to be made
 
 1) Comparison of the income paid in taxes, common people and the ultra-rich.
