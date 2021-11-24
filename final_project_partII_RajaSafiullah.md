@@ -17,10 +17,15 @@ The approach was to look for individuals who might already be socially active an
 ### Your interview script
 
 Q1. At first glance, what do you think this story is about?
+
 Q2. Do you think the story flows properly from phrasing the situation, to how it has progressed, and to its conclusion?
+
 Q3. Do you think the story was effective in communicating the intended key message?
+
 Q4. Did you feel the call of action was justified and appropriate?
+
 Q5. Was there anything that resonated well with you in the story? If so what and if possible why?
+
 Q6. What improvements would you suggest?
 
 ### Findings from the Interviews - Responses
