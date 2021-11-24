@@ -2,7 +2,7 @@
 
 ## Storyboard and wireframing
 
-Here is the link for the Storyboard. For the storyboard, I used Shorthand. The primary reason for using shorthand was that it allows for a nice way to put palceholders for text, images and visualizations, and try to get a better sense of how the story might flow and appear to my audience. This helped me a lot with my user research, where all of the story could be seen in its entirety and allow my audience to easily respond to it. 
+Here is the [link](https://preview.shorthand.com/QBL9Hq3ECPIsIYUz?_gl=1*2l11u*_gcl_aw*R0NMLjE2MzcwOTUyMzEuQ2owS0NRaUF5czJNQmhET0FSSXNBRmYxRDFjM1RUay1sV1hSa1Vwd09MZlBpZGZFQzVXVmo5X0hlb2RWUTIzTzVUNUh2MS1EQldZRUNrNGFBaEd0RUFMd193Y0I.) for the Storyboard. For the storyboard, I used Shorthand. The primary reason for using shorthand was that it allows for a nice way to put palceholders for text, images and visualizations, and try to get a better sense of how the story might flow and appear to my audience. This helped me a lot with my user research, where all of the story could be seen in its entirety and allow my audience to easily respond to it. 
 
 ## User Research
 
