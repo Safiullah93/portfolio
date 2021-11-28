@@ -35,32 +35,42 @@ Answer 1. "This story appears to be about the disparity between the very rich an
 
 Answer 2. "I think the story intends to convey a comparison between the poor, who cannot afford to eat well and the ultra-rich but the first visualization shows the world food insecurity in the context of the recent pandemic, which makes me think that this comparison is a pre and post pandemic times."
 
-Answer 3.
+Answer 3. "It seems like the presentation is trying to communicate the level of hunger in the world through the lens of the wealthy." 
 
 #### Q2. Do you think the story flows properly from phrasing the situation, to how it has progressed, and to its conclusion?
 Answer 1. "The story flows fine, although the call of action seems abrupt to ask for donations first and then present the petition." 
 
 Answer 2. "I like the flow of the story in how food security is discussed first, then the growth in the wealth of ultra-rich, and then a connection is established between the two. The conclusion could have been better, maybe a section highlighting the negligence of the ultra-rich to global problems could add more weight to the argument."
 
+Answer 3. "The first three visuals had me hooked. I thought the breakdown was very impressive. It allowed me to absorb the content very easily. Especially since the first two graphs talk about the World Food insecurity and the growth of the wealthiest before the pandemic. The third visual brings it all together in terms of the impact the pandemic has had on both variables."
+
 #### Q3. Do you think the story was effective in communicating the intended key message?
 Answer 1. "If the intended message was that the very rich are well placed to resolve world food insecurity, then yes it was."
 
 Answer 2. "I think the message is being communicated well. However, there is a need to add clearer titles to show what each section conveys."
+
+Answer 3. "The story, definitely, took me on a roller coaster ride. It made me feel concerned, angry and instigated to take action all at once."
 
 #### Q4. Did you feel the call of action was justified and appropriate?
 Answer 1. "Again, the call of action with the petition seemed more appropriate than a donation for someone like me. But I do think putting the link to donation helps as well, for something like food insecurity. It helped that it was a reputable transnational body like UN Food Program you were asking donations for."
 
 Answer 2. "The call to action does not seem to be connected with the rest of the story. Where are the ultra-rich involved here?"
 
+Answer 3. "The call of action is justified. However, I would like to see some more context and other actions individuals can take to play their part in ending world hunger."
+
 #### Q5. Was there anything that resonated well with you in the story? If so what and if possible why?
 Answer 1. "Certainly! The idea of zooming in to see the proportion of wealth of the richest person and the richest in the world really drove the idea home for me."
 
 Answer 2. "The conversation about the ultra-rich is much talked about. It’s interesting to see how the wealth they own could help solve a major world crisis."
 
+Answer 3. "The visual showing the “petty change” and its significance for ending world hunger versus its value for the rich was very powerful."
+
 #### Q6. What improvements would you suggest?
 Answer 1. "Maybe a comparison of how the world economy has fared in the pandemic with richest in the world, to show how the latter's growth of fortunes is so important to understand."
 
 Answer 2. "I think adding a few interactive visualizations and possibly making segregate sections could improve the overall structure of the story."
+
+Answer 3. "I’m excited to see how the visuals sketched to represent proportions will turn out. They might take this entire story to a whole new level. In terms of improvement, I would add more text and phrase the story in a way that leads to the call of action in a more cohesive manner. Other than that, the flow is very smooth and what you are trying to communicate is crip and clear."
 
 #### Key findings from the feedback
 
