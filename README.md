@@ -27,3 +27,5 @@ Here is a [link](/final_project_partII_RajaSafiullah.md) to the Final Project Pa
 
 ## Final Project Part III
 
+Here is a [link](/final_project_partIII_RajaSafiullah.md) to the Final Project Part III - including the final story.
+
