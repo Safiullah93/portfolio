@@ -24,6 +24,7 @@ I also wanted to make the story more humane, and less about "statistics alone". 
 
 Finally, I was also concerned about the flow of the story. I changed the positioning of visualizations and sections a number of times and used my user research to better understand how I could best deliver my intended message. The User Research was of great help for me in this case, as my users were able to rightly point out when and where the story seemed disjointed or if there appeared to be any jumps. After taking in the feedback, I was able to start by building context for the situation by discussing pre-pandemic situation, follow it up with the current state, and then discuss what could be done about the identified situation - with the final section flowing seamlessly into the final call of action.
 
-## Conclusion
+## Concluding remarks
 
+Working on this project meant a steep learning curve for me, while I was exposed to a number of tools for the first time. I am pleased that I was able to challenge myself by trying new and different visualization types that had not been covered in the lectures, and how it gave me the confidence to explores new tools that were also not covered in the lectures. Credit to the course, especially the way it has been designed that I was able to leverage my learning of new features and tools and use them effectively to communicate my story. 
 
