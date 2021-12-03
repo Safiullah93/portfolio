@@ -1,6 +1,6 @@
 # Final Project - Part III
 
-Here is a [link](https://carnegiemellon.shorthandstories.com/the-hungry-and-the-ultra-rich/index.html#group-section-COVID-Pandemic-8uN5m28W4q) to the Final Story.
+Here is a [link](https://carnegiemellon.shorthandstories.com/the-hungry-and-the-ultra-rich/index.html#group-section-COVID-Pandemic-8uN5m28W4q) to the Final Story, titled: 'The Hungry & the Ultra-Rich: The Pandemic & the Fortunes of the Two Ends of the Spectrum'.
 
 The Part III of the final project was about finalizing the general story, figuring out the issues in flow, making it relevant to the audience and introducing a viable or working call of action. The tool used for the story was Shorthand, along with flourish primarily used for building data visualizations and infogram used for buidling inforgraphics. Where information from external sources was used, it was appropriately cited within the story on Shorthand to allow for ease in navigating through the works cited.
 
