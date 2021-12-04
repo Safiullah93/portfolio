@@ -74,3 +74,6 @@ The data will be used for understanding the cost of resolving world hunger (Per 
 I will primarily be using Shorthand to build the story. Some of the visualizations will be charts that are depicting the increase food insecurity trend during covid, compared to pre-covid. Another graph to show the increasing trend in the growth of wealth of the richest during the COVID compared to pre-covid. This will be done to show build context for the visualizations to follow.
 I have currently used two large circles with much smaller circles to show the visualizations for proportion of wealth required to resolve world hunger, annually. I will try to draw them according to scale, and if I feel that the visualization isn't doing justice to the point that I am trying to make then I will entertain unconventional visualizations i.e. not charts. 
 I would like to use tableau for the visualizations since I am keen on learning more about the tool. But where there are limitations I am open to using Flourish - which I feel much more comfortable using now - or R - which I have some experience in already for visualizations.
+
+
+## Link to Project Part II [link](/final_project_partII_RajaSafiullah.md)
