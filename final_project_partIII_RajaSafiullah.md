@@ -30,3 +30,5 @@ Finally, I was also concerned about the flow of the story. I changed the positio
 
 Working on this project meant a steep learning curve for me, while I was exposed to a number of tools for the first time. I am pleased that I was able to challenge myself by trying new and different visualization types that had not been covered in the lectures, and how it gave me the confidence to explores new tools that were also not covered in the lectures. Credit to the course, especially the way it has been designed that I was able to leverage my learning of new features and tools and use them effectively to communicate my story. 
 
+
+### [Project Part I](/final_project_partII_RajaSafiullah.md) (PREVIOUS)
