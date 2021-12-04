@@ -76,4 +76,4 @@ I have currently used two large circles with much smaller circles to show the vi
 I would like to use tableau for the visualizations since I am keen on learning more about the tool. But where there are limitations I am open to using Flourish - which I feel much more comfortable using now - or R - which I have some experience in already for visualizations.
 
 
-## Link to Project Part II [link](/final_project_partII_RajaSafiullah.md)
+### [link](/final_project_partII_RajaSafiullah.md) to Project Part II 
