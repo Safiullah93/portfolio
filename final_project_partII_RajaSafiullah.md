@@ -88,4 +88,7 @@ There were some recurring ideas in the feedback I recieved that I have included 
 8) Add more text or information to explain the story.
 
 
-### [Project Part III](/final_project_partIII_RajaSafiullah.md)
+### [Project Part III](/final_project_partIII_RajaSafiullah.md) (NEXT)
+
+### [Project Part I](/final_project_RajaSafiullah.md) (PREVIOUS)
+
